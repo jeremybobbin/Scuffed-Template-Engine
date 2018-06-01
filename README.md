@@ -1,8 +1,7 @@
 # Scuffed-Template-Engine
 A simple contemplating engine object written in PHP that renders dynamic HTML using passed in strings or arrays.
 
-Reads statements placed brackets. <h1>Welcome, {username}!</h1>
-
+Reads statements placed within curely brackets.
 
 This is how to use it:
   1. Declare instance of the engine
